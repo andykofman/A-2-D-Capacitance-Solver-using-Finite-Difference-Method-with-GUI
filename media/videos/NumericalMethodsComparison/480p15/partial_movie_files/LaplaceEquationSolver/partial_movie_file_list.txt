@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/OneDrive - aucegypt.edu/Desktop/LEWIS11/LEWIS/media/videos/NumericalMethodsComparison/480p15/partial_movie_files/LaplaceEquationSolver/1185818338_3540503561_223132457.mp4'
+file 'file:D:/OneDrive - aucegypt.edu/Desktop/LEWIS11/LEWIS/media/videos/NumericalMethodsComparison/480p15/partial_movie_files/LaplaceEquationSolver/624642324_1704852926_2963746507.mp4'
+file 'file:D:/OneDrive - aucegypt.edu/Desktop/LEWIS11/LEWIS/media/videos/NumericalMethodsComparison/480p15/partial_movie_files/LaplaceEquationSolver/624642324_159408603_462795818.mp4'
+file 'file:D:/OneDrive - aucegypt.edu/Desktop/LEWIS11/LEWIS/media/videos/NumericalMethodsComparison/480p15/partial_movie_files/LaplaceEquationSolver/624642324_1704852926_2581191421.mp4'
+file 'file:D:/OneDrive - aucegypt.edu/Desktop/LEWIS11/LEWIS/media/videos/NumericalMethodsComparison/480p15/partial_movie_files/LaplaceEquationSolver/624642324_1415825173_1174598382.mp4'
+file 'file:D:/OneDrive - aucegypt.edu/Desktop/LEWIS11/LEWIS/media/videos/NumericalMethodsComparison/480p15/partial_movie_files/LaplaceEquationSolver/624642324_1704852926_2232245981.mp4'
+file 'file:D:/OneDrive - aucegypt.edu/Desktop/LEWIS11/LEWIS/media/videos/NumericalMethodsComparison/480p15/partial_movie_files/LaplaceEquationSolver/624642324_3577007560_3571512405.mp4'
+file 'file:D:/OneDrive - aucegypt.edu/Desktop/LEWIS11/LEWIS/media/videos/NumericalMethodsComparison/480p15/partial_movie_files/LaplaceEquationSolver/624642324_1704852926_2274356747.mp4'

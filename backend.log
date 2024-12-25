@@ -1,0 +1,736 @@
+2024-12-16 05:28:50,782 - backend - DEBUG - Setting up conductors
+2024-12-16 05:28:50,784 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 05:39:32,295 - backend - DEBUG - Setting up conductors
+2024-12-16 05:39:32,297 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 05:50:47,606 - backend - DEBUG - Setting up conductors
+2024-12-16 05:50:47,608 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 05:52:41,560 - backend - DEBUG - Setting up conductors
+2024-12-16 05:52:41,562 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 05:54:15,463 - backend - DEBUG - Setting up conductors
+2024-12-16 05:54:15,465 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 05:56:56,799 - backend - DEBUG - Setting up conductors
+2024-12-16 05:56:56,801 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 05:57:39,195 - backend - DEBUG - Setting up conductors
+2024-12-16 05:57:39,197 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 06:01:50,849 - backend - DEBUG - Setting up conductors
+2024-12-16 06:01:50,851 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 06:02:32,225 - backend - DEBUG - Setting up conductors
+2024-12-16 06:02:32,227 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 06:03:34,975 - backend - DEBUG - Setting up conductors
+2024-12-16 06:03:34,978 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 06:05:55,642 - backend - DEBUG - Setting up conductors
+2024-12-16 06:05:55,644 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 06:06:40,916 - backend - DEBUG - Setting up conductors
+2024-12-16 06:06:40,918 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 06:08:24,493 - backend - DEBUG - Setting up conductors
+2024-12-16 06:08:24,495 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 06:09:35,545 - backend - DEBUG - Setting up conductors
+2024-12-16 06:09:35,547 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 06:12:42,013 - backend - DEBUG - Setting up conductors
+2024-12-16 06:12:42,015 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 06:13:42,025 - backend - DEBUG - Setting up conductors
+2024-12-16 06:13:42,027 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 06:14:45,178 - backend - DEBUG - Setting up conductors
+2024-12-16 06:14:45,180 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 06:15:43,032 - backend - DEBUG - Setting up conductors
+2024-12-16 06:15:43,035 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 06:16:34,824 - backend - DEBUG - Setting up conductors
+2024-12-16 06:16:34,826 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 06:16:56,915 - backend - DEBUG - Setting up conductors
+2024-12-16 06:16:56,918 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 15:33:13,309 - backend - DEBUG - Setting up conductors
+2024-12-16 15:33:13,311 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 15:37:41,383 - backend - DEBUG - Setting up conductors
+2024-12-16 15:37:41,385 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 15:54:12,408 - backend - DEBUG - Setting up conductors
+2024-12-16 15:54:12,410 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 15:54:40,651 - backend - DEBUG - Setting up conductors
+2024-12-16 15:54:40,661 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 15:55:15,655 - backend - DEBUG - Setting up conductors
+2024-12-16 15:55:15,658 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 15:55:59,089 - backend - DEBUG - Setting up conductors
+2024-12-16 15:55:59,092 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 15:56:51,445 - backend - DEBUG - Setting up conductors
+2024-12-16 15:56:51,447 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 15:58:35,288 - backend - DEBUG - Setting up conductors
+2024-12-16 15:58:35,291 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 15:58:47,478 - backend - DEBUG - Setting up conductors
+2024-12-16 15:58:47,481 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:03:22,313 - backend - DEBUG - Setting up conductors
+2024-12-16 16:03:22,316 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:03:44,150 - backend - DEBUG - Setting up conductors
+2024-12-16 16:03:44,153 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:09:35,333 - backend - DEBUG - Setting up conductors
+2024-12-16 16:09:35,335 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:11:56,506 - backend - DEBUG - Setting up conductors
+2024-12-16 16:11:56,507 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:12:06,571 - backend - DEBUG - Setting up conductors
+2024-12-16 16:12:06,573 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:12:34,926 - backend - DEBUG - Setting up conductors
+2024-12-16 16:12:34,928 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:17:34,297 - backend - DEBUG - Setting up conductors
+2024-12-16 16:17:34,299 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:21:11,564 - backend - DEBUG - Setting up conductors
+2024-12-16 16:21:11,567 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:21:33,732 - backend - DEBUG - Setting up conductors
+2024-12-16 16:21:33,733 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:21:40,445 - backend - DEBUG - Setting up conductors
+2024-12-16 16:21:40,447 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:21:44,437 - backend - DEBUG - Setting up conductors
+2024-12-16 16:21:44,438 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:22:25,612 - backend - DEBUG - Setting up conductors
+2024-12-16 16:22:25,616 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:40:40,571 - backend - DEBUG - Setting up conductors
+2024-12-16 16:40:40,573 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:40:52,156 - backend - DEBUG - Setting up conductors
+2024-12-16 16:40:52,159 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:40:55,534 - backend - DEBUG - Setting up conductors
+2024-12-16 16:40:55,536 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:43:14,866 - backend - DEBUG - Setting up conductors
+2024-12-16 16:43:14,867 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:43:19,340 - backend - DEBUG - Setting up conductors
+2024-12-16 16:43:19,342 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:43:21,222 - backend - DEBUG - Setting up conductors
+2024-12-16 16:43:21,224 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:47:13,398 - backend - DEBUG - Setting up conductors
+2024-12-16 16:47:13,401 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:47:20,160 - backend - DEBUG - Setting up conductors
+2024-12-16 16:47:20,162 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:47:26,574 - backend - DEBUG - Setting up conductors
+2024-12-16 16:47:26,575 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:47:36,205 - backend - DEBUG - Setting up conductors
+2024-12-16 16:47:36,207 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:47:42,002 - backend - DEBUG - Setting up conductors
+2024-12-16 16:47:42,005 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:47:45,086 - backend - DEBUG - Setting up conductors
+2024-12-16 16:47:45,088 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:52:31,655 - backend - DEBUG - Setting up conductors
+2024-12-16 16:52:31,657 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:53:32,387 - backend - DEBUG - Setting up conductors
+2024-12-16 16:53:32,389 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:54:06,576 - backend - DEBUG - Setting up conductors
+2024-12-16 16:54:06,579 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:56:41,709 - backend - DEBUG - Setting up conductors
+2024-12-16 16:56:41,712 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:57:29,422 - backend - DEBUG - Setting up conductors
+2024-12-16 16:57:29,425 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:58:26,729 - backend - DEBUG - Setting up conductors
+2024-12-16 16:58:26,731 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 16:59:27,455 - backend - DEBUG - Setting up conductors
+2024-12-16 16:59:27,457 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:00:13,198 - backend - DEBUG - Setting up conductors
+2024-12-16 17:00:13,202 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 3 3 3]
+ [0 0 0 ... 3 3 3]
+ [0 0 0 ... 3 3 3]
+ ...
+ [0 0 0 ... 3 3 3]
+ [0 0 0 ... 3 3 3]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:01:00,284 - backend - DEBUG - Setting up conductors
+2024-12-16 17:01:00,286 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:01:02,302 - backend - DEBUG - Setting up conductors
+2024-12-16 17:01:02,304 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:01:20,138 - backend - DEBUG - Setting up conductors
+2024-12-16 17:01:20,142 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:05:02,851 - backend - DEBUG - Setting up conductors
+2024-12-16 17:05:02,855 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:06:04,858 - backend - DEBUG - Setting up conductors
+2024-12-16 17:06:04,862 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 5 5 ... 0 0 0]
+ [0 5 5 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:07:56,923 - backend - DEBUG - Setting up conductors
+2024-12-16 17:07:56,927 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 5 5 ... 0 0 0]
+ [0 5 5 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:15:38,022 - backend - DEBUG - Setting up conductors
+2024-12-16 17:15:38,024 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:15:58,562 - backend - DEBUG - Setting up conductors
+2024-12-16 17:15:58,565 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:19:36,844 - backend - DEBUG - Setting up conductors
+2024-12-16 17:19:36,848 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 3 ... 0 0 0]
+ [0 0 3 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:47:41,480 - backend - DEBUG - Setting up conductors
+2024-12-16 17:47:41,482 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:48:13,212 - backend - DEBUG - Setting up conductors
+2024-12-16 17:48:13,214 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:48:14,232 - backend - DEBUG - Setting up conductors
+2024-12-16 17:48:14,234 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:48:26,932 - backend - DEBUG - Setting up conductors
+2024-12-16 17:48:26,934 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:48:28,929 - backend - DEBUG - Setting up conductors
+2024-12-16 17:48:28,931 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:50:19,218 - backend - DEBUG - Setting up conductors
+2024-12-16 17:50:19,222 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [1 1 1 ... 0 0 0]
+ [1 1 1 ... 0 0 0]
+ ...
+ [1 1 1 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:51:20,288 - backend - DEBUG - Setting up conductors
+2024-12-16 17:51:20,290 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:53:23,758 - backend - DEBUG - Setting up conductors
+2024-12-16 17:53:23,761 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:54:54,975 - backend - DEBUG - Setting up conductors
+2024-12-16 17:54:54,978 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 17:55:45,207 - backend - DEBUG - Setting up conductors
+2024-12-16 17:55:45,211 - backend - DEBUG - Conductor geometries set: [[4 4 4 ... 0 0 0]
+ [4 4 4 ... 0 0 0]
+ [4 4 4 ... 0 0 0]
+ ...
+ [4 4 4 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 22:34:00,989 - backend - DEBUG - Setting up conductors
+2024-12-16 22:34:00,991 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 22:38:26,672 - backend - DEBUG - Setting up conductors
+2024-12-16 22:38:26,675 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 22:38:40,038 - backend - DEBUG - Setting up conductors
+2024-12-16 22:38:40,040 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-16 22:38:40,701 - backend - DEBUG - Setting up conductors
+2024-12-16 22:38:40,704 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-20 20:53:36,915 - backend - DEBUG - Setting up conductors
+2024-12-20 20:53:36,918 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-20 20:53:52,138 - backend - DEBUG - Setting up conductors
+2024-12-20 20:53:52,142 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-21 01:22:10,905 - backend - DEBUG - Setting up conductors
+2024-12-21 01:22:10,908 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-21 04:26:28,440 - backend - DEBUG - Setting up conductors
+2024-12-21 04:26:28,450 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 1 1 0]
+ [0 0 0 ... 1 1 0]
+ [0 0 0 ... 1 1 0]
+ ...
+ [0 0 0 ... 1 1 0]
+ [0 0 0 ... 1 1 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-21 16:29:49,561 - backend - DEBUG - Setting up conductors
+2024-12-21 16:29:49,563 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-21 16:55:25,105 - backend - DEBUG - Setting up conductors
+2024-12-21 16:55:25,108 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-21 16:57:21,542 - backend - DEBUG - Setting up conductors
+2024-12-21 16:57:21,544 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-21 16:58:22,200 - backend - DEBUG - Setting up conductors
+2024-12-21 16:58:22,203 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]

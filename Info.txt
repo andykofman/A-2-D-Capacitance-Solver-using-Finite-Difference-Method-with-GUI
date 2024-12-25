@@ -1,0 +1,9 @@
+correct visualization of the grid and conductors
+correct calculation of the capacitance matrix
+correct calculation of the electric field
+correct calculation of the charges
+correct calculation of the potentials
+correct calculation of the extraction time
+correct calculation of the epsilon grid
+
+
