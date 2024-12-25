@@ -9,7 +9,7 @@ def main():
     # Set application metadata
     app.setApplicationName("Capacitance Solver")
     app.setOrganizationName("CapSolver")
-    app.setOrganizationDomain("capsolver.org")
+    app.setOrganizationDomain("https://github.com/andykofman/2D-FieldSolver-for-Solving-ParasiticCapacitance/")
 
     # apply_stylesheet(app, theme='dark_cyan.xml')
     

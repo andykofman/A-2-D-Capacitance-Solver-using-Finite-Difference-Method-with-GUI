@@ -734,3 +734,27 @@
  [0 0 0 ... 0 0 0]
  [0 0 0 ... 0 0 0]
  [0 0 0 ... 0 0 0]]
+2024-12-25 10:58:22,692 - backend - DEBUG - Setting up conductors
+2024-12-25 10:58:22,706 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-25 11:00:01,698 - backend - DEBUG - Setting up conductors
+2024-12-25 11:00:01,996 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
+2024-12-25 11:02:01,207 - backend - DEBUG - Setting up conductors
+2024-12-25 11:02:01,210 - backend - DEBUG - Conductor geometries set: [[0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ ...
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]
+ [0 0 0 ... 0 0 0]]
