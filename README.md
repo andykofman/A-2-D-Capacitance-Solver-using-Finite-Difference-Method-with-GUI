@@ -74,18 +74,18 @@ The frontend provides a GUI for user interaction. It allows users to:
 
 ## Project Structure
 2d-capacitance-solver/
-│
-├── backend.py # Backend calculations and logic
-├── frontend/ # Frontend GUI files
-│ ├── main.py # Entry point for the GUI
-│ ├── views.py # GUI layout and components
-│ ├── controllers.py # Handles user interactions
-│ └── models.py # Data models and logic
-│
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-├── LICENSE # License information
-└── .gitignore # Git ignore file
+  │
+  ├── backend.py # Backend calculations and logic
+  ├── frontend/ # Frontend GUI files
+  │ ├── main.py # Entry point for the GUI
+  │ ├── views.py # GUI layout and components
+  │ ├── controllers.py # Handles user interactions
+  │ └── models.py # Data models and logic
+  │
+  ├── requirements.txt # Python dependencies
+  ├── README.md # Project documentation
+  ├── LICENSE # License information
+  └── .gitignore # Git ignore file
 
 
 
