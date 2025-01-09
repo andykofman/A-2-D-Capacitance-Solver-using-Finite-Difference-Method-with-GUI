@@ -1,4 +1,4 @@
-# Comprehensive Documentation for 2D Capacitance Solver Project
+# Comprehensive Documentation for A 2-D Capacitance Solver Using Finite Difference Method and with a GUI Project
 
 ## Overview
 
