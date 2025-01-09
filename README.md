@@ -4,6 +4,11 @@
 
 The 2D Capacitance Solver is an open-source project designed to solve 2D capacitance problems using a custom mathematical engine. It includes a backend for performing calculations and a frontend for user interaction, following the Model-View-Controller (MVC) architecture. This tool is ideal for educational and research purposes in the field of electrical engineering and physics.
 
+
+-------------
+Under media/videos/How to use the program, you will find a quick tutorial for the program.
+More details can be found in the documentation file.
+-------------
 ## Features
 
 - **Backend**: 
