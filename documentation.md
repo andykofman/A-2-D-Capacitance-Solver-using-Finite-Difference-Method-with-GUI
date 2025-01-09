@@ -168,7 +168,7 @@ The `ResultsPanel` class displays the simulation results, including the capacita
 
 ### 4.1 Running the Application
 
-To run the application, execute the `main_controller.py` script. This will launch the GUI, allowing you to set up the simulation, run calculations, and visualize results.
+To run the application, execute the `main.py` script. This will launch the GUI, allowing you to set up the simulation, run calculations, and visualize results.
 
 ### 4.2 Setting Up the Simulation
 
