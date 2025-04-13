@@ -78,7 +78,7 @@ The frontend provides a GUI for user interaction. It allows users to:
 - Export results for further analysis.
 
 ## Project Structure
-2d-capacitance-solver/
+```2d-capacitance-solver/
   │
   ├── backend.py # Backend calculations and logic
   ├── frontend/ # Frontend GUI files
@@ -91,7 +91,7 @@ The frontend provides a GUI for user interaction. It allows users to:
   ├── README.md # Project documentation
   ├── LICENSE # License information
   └── .gitignore # Git ignore file
-
+```
 
 
 ## Contributing
